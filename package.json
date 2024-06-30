@@ -1,0 +1,15 @@
+{
+  "name": "project_x",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --run --reporter verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "vitest": "^1.6.0"
+  }
+}
